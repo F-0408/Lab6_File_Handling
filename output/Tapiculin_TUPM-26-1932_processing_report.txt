@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+---------------------------------------
+Last Name: Tapiculin
+Student ID: TUPM-26-1932
+Seed Digit: 2
+ID Sum: 23
+Verification Value: 209
+Dataset Sample Size: 73
+Valid Records: 73
+Average Global Active Power: 4.050
+JSON File: Tapiculin_TUPM-26-1932_record.json
+Backup File: Tapiculin_TUPM-26-1932_record.csv
